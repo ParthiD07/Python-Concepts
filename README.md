@@ -1,6 +1,6 @@
 # Python Concepts: From Beginner to Expert
 
-Welcome to the **Python Concepts** repository! This repository is designed to help you understand the Python programming language in a structured manner, from beginner to expert level. Each concept is explained briefly with examples, making it easy to follow and understand.
+Welcome to the **Python Concepts** repository! This repository is designed by me and it took weeks to create these notes, i have made it publicly so that everyone could learn the Python programming language in a structured manner, from beginner to expert level. Each concept is explained briefly with examples, making it easy to follow and understand.
 
 # Introduction
 
